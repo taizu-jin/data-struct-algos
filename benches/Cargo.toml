@@ -16,3 +16,7 @@ rand = "0.8"
 [[bench]]
 name = "insertion_sort"
 harness = false
+
+[[bench]]
+name = "merge_sort"
+harness = false
