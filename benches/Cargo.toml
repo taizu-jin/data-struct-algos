@@ -20,3 +20,7 @@ harness = false
 [[bench]]
 name = "merge_sort"
 harness = false
+
+[[bench]]
+name = "sorts"
+harness = false
